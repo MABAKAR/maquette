@@ -1,0 +1,226 @@
+
+h1{
+    font-size:10px; 
+    padding-bottom: 5px;
+    font-family: droid serif;
+    color: rgb(83, 81, 81);
+}
+.c{
+    border-bottom: solid 4px red;
+}
+.a{
+    border-bottom: solid 4px yellow;
+}
+.b{
+    border-bottom: solid 4px green;
+}
+.d{
+    border-bottom: solid 4px blue;
+}
+.e{
+    border-bottom: solid 4px rgb(199, 35, 158);
+}
+.entet{
+    font-size:10px;
+    display: flex;
+    flex-wrap:wrap;
+    justify-content: center;
+    --gap:3em;
+    text-align:left;
+    font-family: droid serif;
+    margin-right:20%;
+    color: rgb(110, 105, 105);
+}
+.entet > *{
+    margin-left: var(--gap);
+}
+#logo{
+    margin-bottom: 6px;
+    margin-top:18px;
+    margin-left:27%;
+    float:left;
+}.rt{
+        width:90px;
+        height:70px
+}
+header{
+    border: 1px rgb(219, 216, 216) solid;
+    height: 132px;
+}
+.eter{
+    margin-top:10px;
+    background-image:url(misc/grille.png);
+    background-repeat: repeat;
+}
+iframe{
+    width:500px; 
+    height:300px;
+    margin-top:2%;
+   margin-left:35%;
+}
+.ht{
+    font-family: droid serif;
+    font-size:13px;
+    padding: 2%;
+    margin-left:30%;
+    margin-top:0px;
+    color: rgb(119, 114, 114);
+   
+}
+.es{
+    margin-top: 2%;
+    border: 1px solid rgb(182, 176, 176);
+    height:95px;
+}
+h2{
+    background-image:url(misc/grille.png);
+    background-repeat: repeat;
+    margin-top:10px;
+}
+.golfi{
+   
+    height:80px;
+}
+.intru{
+    font-family: droid sans;
+    margin-left:26%;
+    margin-right: 25%;
+    margin-top:2%;
+}
+.uno{
+    font-size:10px;
+    display:flex;
+    --gap:3em;
+    
+}
+.uno>*{
+    margin-left: var(--gap);
+}
+.premier{
+    overflow: hidden;
+    margin-left: 3%;
+    line-height: 2em;
+}
+.deuxieme{
+overflow: hidden;
+line-height: 2em;
+
+}
+.troisieme{
+overflow: hidden;
+line-height: 2em;
+}
+.quatrieme{
+overflow: hidden;
+line-height: 2em;
+}
+.commentaires{
+    width:60px;
+    height:50px;
+    padding-left:4px;
+    border: 1px solid  rgb(216, 207, 207);
+    padding-right:4px ;
+    padding-top:4px ;
+    padding-bottom: 4px;
+    width:60px;
+    height:50px;
+}
+.accro{
+    color:rgb(52, 54, 54)
+}
+
+.intru{
+    margin-bottom: 5%;
+}
+h3{
+    font-size:14px;
+    font-family: oswald;
+    color: rgb(255, 94, 0);
+}
+.intro{
+    font-family: droid serif;
+    font-size:8px;
+    margin-top:0%;
+    color: rgb(128, 118, 118);
+}
+.nj{
+    color: rgb(128, 118, 118);
+}
+.ma{
+    border:1px solid black;
+    height:50%;
+}
+.da{
+    font-size: 8px;
+    display: flex;
+    --gap:3em;
+    line-height: 155%;
+    margin-left: 25%;
+    margin-right: 10%;
+    color:rgb(52, 54, 54);;
+}
+.da>*{
+    margin-left: var(--gap);
+}
+.do{
+    width:17%;
+}
+.deter{
+    vertical-align: middle;
+    width:17px;
+    margin-left: 0;
+}
+figure{
+    margin-left:0;
+}
+.er{
+    margin-top:1%;
+    margin-left:22%;
+    font-size: 8px;
+}
+.ft{
+
+    background-image:url(misc/grille.png);
+    background-repeat: repeat;
+}
+.eno{
+    border:1px solid rgb(71, 70, 70);
+    padding: 10px;
+}
+h4{
+    font-family: droid serif;
+    font-size: 8px;
+    color: rgb(122, 114, 114);
+    
+}
+.ete{
+    color: rgb(128, 118, 118);
+}
+
+.erni{
+    margin: 0px auto;
+    float:right;
+    margin-right: 25%;
+    margin-top:5px;
+
+}
+.ji{
+    width:20px;
+    height: 20px;
+}
+.ni{
+    font-size:7px;
+}
+.br{
+    margin-left: 27%;
+    line-height: normal;
+}
+.nr{
+    color:rgb(52, 54, 54)
+}
+.hiver{
+    color:rgb(44, 42, 42)
+}
+.accro{
+    color:rgb(99, 96, 96)
+}

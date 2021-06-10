@@ -1,0 +1,84 @@
+@media(max-width: 900px)
+
+{ 
+header{
+    height:30%;
+}
+#logo{
+    margin-left: 40%;
+}
+.entet{
+    font-size: 7px;
+   margin-left:15%;
+}
+.eter
+{ 
+    display:flex;
+    flex-wrap:wrap;
+        height:100%;
+         width :100% ;
+         padding :0px ;
+}
+iframe{
+    margin-left: 25%;
+    width:50%;
+    height:50%
+}
+
+h2{
+    margin-right: 20%;
+    text-align: center;
+    
+}
+.es{
+    background-image:url(/assets/misc/grille.png);
+    background-repeat: repeat;
+    margin-top: 2%;
+    border: 1px solid black;
+}
+.intru{
+    width:90%;
+    height:70%;
+    margin-left: 2%;
+}
+.uno{
+    height:50%;
+    display:flex;
+    flex-wrap: wrap;
+    
+}
+.da{
+    margin-left: 1%;
+}
+.da{
+    font-size: 5px;
+    --gap:6em;
+    line-height: 155%;
+    margin-left:0;
+    
+    
+}
+.da>*{
+    margin-left: var(--gap);
+}
+.deter{
+    vertical-align: top;
+    width:20%;
+}
+.er{
+    font-size:5px;
+    margin-left: 0%;
+}
+.do{
+    width:30%;
+}
+.ty{
+    margin-right:0%;
+}
+.br{
+    margin-left:5%;
+}
+.erni{
+    margin-right:5%;
+}
+}
